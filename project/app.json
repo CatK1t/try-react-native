@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "name": "project",
+    "description": "your app desc",
+    "ios": {
+      "supportsTablet": true
+    },
+
+    "android": {
+      "package": "com.CatK1t.project"
+    }
+  }
+}
